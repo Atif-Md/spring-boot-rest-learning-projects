@@ -7,20 +7,7 @@ This repository contains a collection of hands-on **Spring Boot RESTful Web Serv
 ## 📂 Projects Included
 - BootRestProj01-FirstApp → Basic Spring Boot REST setup
 - BootRestProj02-SecondApp → Simple REST endpoints
-- BootRestProj03-SendingJsonDataResponse → Sending JSON responses
-- BootRestProj04-SendingComplexJsonDataResponse → Complex JSON response handling
-- BootRestProj05-SendingXMLDataAsResponse → Returning XML data
-- BootRestProj06-SendingJsonDataWithRequest → Handling JSON in request body
-- BootRestProj07-SendingXmlDataWithRequest → Handling XML in request body
-- BootRestProj08-ConvertingJsonComplexDataToJavaObject → JSON → Java object mapping
-- BootRestProj09-RequestParam → Using @RequestParam in REST APIs
-- BootRestProj11-PathVariables → Using @PathVariable in REST APIs
-- BootRestProj12-MiniProject-APIDevelopment → Mini REST API project
-- BootRestProj13-API-ProviderApp → REST API provider app
-- BootRestProj13-ConsumerApp → REST API consumer app (using RestTemplate)
-- BootRestProj14-ConsumerApp-RestTemplate → Advanced consumer app with RestTemplate
-- BootRestProjAssignment → Assignment-based practice
-- BootRestProjAssignment-MiniProjConsumerApp → Mini project consumer assignment
+
 
 ## 🚀 Features Covered
 - REST API design with Spring Boot
